@@ -1,4 +1,4 @@
-# This is a image to caption generator model.
+# This is an image to caption generator deep learning model.
 ### Uses both NLP + Computer Vision.
 ### Model used: Pretrained CNN model(For image processing) + LSTM(For captions).
 ### UI: Basic streamlit app.
