@@ -1,6 +1,6 @@
 # This is an image to caption generator deep learning model.
 ### Uses both NLP + Computer Vision.
-### Model used: Pretrained CNN model(For image processing) + LSTM(For captions).
+### Model used: DenseNet201(Pretrained CNN model for image processing) + LSTM(For captions).
 
 
 ![image](https://github.com/user-attachments/assets/a3d3693b-7226-43fd-bd57-a77540057a46)
