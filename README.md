@@ -3,7 +3,7 @@
 ### Model used: Pretrained CNN model(For image processing) + LSTM(For captions).
 ### UI: Basic streamlit app.
 
-
+![image](https://github.com/user-attachments/assets/a3d3693b-7226-43fd-bd57-a77540057a46)
 
 ## How to run it:
 
@@ -17,3 +17,8 @@
 
 
 ### Note: Use python version<=3.11
+
+
+
+
+
